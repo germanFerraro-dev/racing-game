@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/interstellar-sea-threejs/static/css/main.a92b501c.css",
-    "main.js": "/interstellar-sea-threejs/static/js/main.5bffdec8.js",
-    "index.html": "/interstellar-sea-threejs/index.html",
-    "main.a92b501c.css.map": "/interstellar-sea-threejs/static/css/main.a92b501c.css.map",
-    "main.5bffdec8.js.map": "/interstellar-sea-threejs/static/js/main.5bffdec8.js.map"
+    "main.css": "/racing-game/static/css/main.a92b501c.css",
+    "main.js": "/racing-game/static/js/main.82d3c1a5.js",
+    "index.html": "/racing-game/index.html",
+    "main.a92b501c.css.map": "/racing-game/static/css/main.a92b501c.css.map",
+    "main.82d3c1a5.js.map": "/racing-game/static/js/main.82d3c1a5.js.map"
   },
   "entrypoints": [
     "static/css/main.a92b501c.css",
-    "static/js/main.5bffdec8.js"
+    "static/js/main.82d3c1a5.js"
   ]
 }
