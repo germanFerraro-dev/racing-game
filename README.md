@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Racing game sandbox
+Racing game made with React + ThreeJS  (react-three-fiber) for graphics and cannon for physics# Getting Started with Create React App
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
