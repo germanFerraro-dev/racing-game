@@ -1,8 +1,9 @@
 {
-  "name": "racing-game",
+  "repository": "Racing game",
   "version": "0.1.0",
+  "name": "interstellar-sea",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://lonelybits.github.io/racing-game",
   "dependencies": {
     "@react-three/cannon": "6.4.0",
     "@react-three/drei": "9.34.4",
